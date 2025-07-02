@@ -16,7 +16,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-public class AppTest {
+public class AppTest2 {
     WebDriver driver;
     WebDriverWait wait;
     Actions actions;
